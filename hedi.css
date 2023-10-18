@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+div{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+img{
+    position: absolute;
+    left: 1000px;
+}
+button{
+    width: 60px;
+    height: 30px;
+    border-radius: 30px;
+}
